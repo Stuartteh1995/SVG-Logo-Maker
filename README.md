@@ -13,3 +13,6 @@ How to use:
 
 Walkthrough Video
 https://drive.google.com/file/d/1xd-SKdahCl6N_psKSMNaJ70i6KYkrwvF/view
+
+Sample image of logo maker:
+![svg logo maker](https://user-images.githubusercontent.com/124997994/235668551-1fa94867-d95f-41c4-a6b8-2e91e80a8dac.jpg)
